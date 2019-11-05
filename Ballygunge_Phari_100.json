@@ -1,0 +1,787 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CqQCEgEAAJuZoPmB3C1bEf27Q4-lP6AKVCsiz_Bx_jdisCUws6STmqgfw_NZBCVCZUrcW_7u4PhkVjXhLdbNrtMvulaGGua8RNiYnlE9RCSFInPn_gGfdDDLVZs8cn-t1a7NGLjeXevRsgejgla2Iagw76m9LEyXIUXfD7AXBFQTrOi9LHThLGAGOaTlokmeBTl5N4k_-albg02OkcuV3UPMr9Iwzg_JiYaJotFx3cykpwXoETNhyTIYqHE7Zjoxj-OSHKZOIdsxZ8dd1nmg0HaZPHW6HH-x7YepaWRfJEMYhNd_j9ffXN96veubG-MyE_ulltIgKh9prP22lgXMcopVTXt7AndZfO_NJRJcRHQF3ZoWIlsB6xHk2nVHNoOgkMXm9Bc8whIQxDN_5f5kzIiprL7Rl6aoWxoUo-CMDN20gYR69Hj1dnOz6Q9N_18",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 22.572646,
+               "lng" : 88.36389500000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.0083628,
+                  "lng" : 88.5428696
+               },
+               "southwest" : {
+                  "lat" : 22.3436288,
+                  "lng" : 88.1165879
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "91bee68c9d494105b3fedcf4dddf78deeb8061e8",
+         "name" : "Kolkata",
+         "photos" : [
+            {
+               "height" : 479,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105563930581930168394/photos\"\u003eJaved Alam\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAPSettN8bo1YsfwA4Zd4OAtWAmTzifiX5nqSzIdl6wlKfVS53NN852Dn3V8PksYFpbTesX6DCfRYag6bYLbELuyn__oWoAvXRlnr70T5E5p2eJEvKgEmEgmmziR-DHLGzEhANxJ6Z4dTRTaGFbvJ9JBGIGhReCcTN5IsIMc6NttXyTfkCcV9Pgw",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJZ_YISduC-DkRvCxsj-Yw40M",
+         "reference" : "ChIJZ_YISduC-DkRvCxsj-Yw40M",
+         "scope" : "GOOGLE",
+         "types" : [ "locality", "political" ],
+         "vicinity" : "Kolkata"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 22.5246748,
+               "lng" : 88.3659423
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5260309802915,
+                  "lng" : 88.3672488302915
+               },
+               "southwest" : {
+                  "lat" : 22.5233330197085,
+                  "lng" : 88.36455086970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "bd602e075495b20da141dc29bce6449f04bb8500",
+         "name" : "Suswagatam Bar Cum Restaurant",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105263363912368683794/photos\"\u003eAiswarya Dutta\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA1yAeaXd6Swl2w51xRKH68cdd51xstR5qFw58Xl3XuCoCtwJOYj86IU7t8qRCk81ygYhd09ZkIdnu1Fa1hk2YkyjCUYUj1OzrchaY-jJLUy0UuIDc7dbl69qk-pcYCH6jEhAEgKzYbKjbdK0k69H071LUGhS2-Z329WrhtsSP8hk4Fb8k4Ia96Q",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJsyIku9Z2AjoR8KVHiIpF2X0",
+         "plus_code" : {
+            "compound_code" : "G9F8+V9 Ballygunge, Kolkata, West Bengal, India",
+            "global_code" : "7MJCG9F8+V9"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJsyIku9Z2AjoR8KVHiIpF2X0",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 394,
+         "vicinity" : "No. 6, Mandevilla Gardens, Gariahat Road, Ballygunge, Kolkata"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 22.5247993,
+               "lng" : 88.3664636
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5261696802915,
+                  "lng" : 88.36783688029151
+               },
+               "southwest" : {
+                  "lat" : 22.5234717197085,
+                  "lng" : 88.36513891970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "00d9bde9b11c3494cff5ea366af2ba6b327c2c86",
+         "name" : "Sit-n-Eat",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113055248422294208960/photos\"\u003eMd Parvez Haque\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAEaA3Pl3_EWBEsXOwZvW13G98ziS1p9ZMazchH7E963sgU2Z7U_I_eb7HNfBA8M5lmw4NLc002raoB--VRpmNQculvA2JAr-xXts3lfWip1TDAUl0CqtwsVhgraquRdGYEhC-5dSpFqQwU5jfyjj5aKmfGhR3X3dsOnanMYvVcJgy8zMADDdK0g",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJ7d78jNZ2AjoRnonF2qp-g5k",
+         "plus_code" : {
+            "compound_code" : "G9F8+WH Kolkata, West Bengal, India",
+            "global_code" : "7MJCG9F8+WH"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ7d78jNZ2AjoRnonF2qp-g5k",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "3B, Mandeville Gardens, Ekdalia, Ballygunge, Kolkata"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 22.524653,
+               "lng" : 88.36577199999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5260056302915,
+                  "lng" : 88.36710233029152
+               },
+               "southwest" : {
+                  "lat" : 22.5233076697085,
+                  "lng" : 88.3644043697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "dfe7ac7d7a69e5a7712b915e0966608b29066ac1",
+         "name" : "ANDAMAN DIYA TOURS AND TRAVELS",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 301,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112458872139911401593/photos\"\u003eANDAMAN DIYA TOURS AND TRAVELS\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAXbEWE7f_sbgRMXKlFq79LO5mrzsxRVDQmIfrFrkMpvQhoBQIdIgLmkbbw_k1Dtg-TiKsOpKyOvFbkjbPbJS0VBNgzCJXIT4aKRmyb-pbKxXIywTbGR5CzZd-hu_ozuwWEhB0pIK3ye3eHLe-q43wDEfUGhTAFUvIX5RFYS_YjqsSVKHX9gz2KA",
+               "width" : 301
+            }
+         ],
+         "place_id" : "ChIJJVUm-9Z2AjoR1Du1_VtKaDc",
+         "plus_code" : {
+            "compound_code" : "G9F8+V8 Kolkata, West Bengal, India",
+            "global_code" : "7MJCG9F8+V8"
+         },
+         "reference" : "ChIJJVUm-9Z2AjoR1Du1_VtKaDc",
+         "scope" : "GOOGLE",
+         "types" : [ "travel_agency", "point_of_interest", "establishment" ],
+         "vicinity" : "46/31/1,GARIAHAT ROAD 2nd floor Room no-241, Kolkata"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 22.52447,
+               "lng" : 88.3660438
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5258421302915,
+                  "lng" : 88.3672820802915
+               },
+               "southwest" : {
+                  "lat" : 22.52314416970849,
+                  "lng" : 88.3645841197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+         "id" : "13608fc4d38dac4fbc9d7967846517df32c496df",
+         "name" : "South Regional Office",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1152,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115058089002819324604/photos\"\u003ePijus Ash\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAABukCVwllsPihtLC-bVAQZQZEjcFLQ2NyAPRY3xJE6NWZfFL7W6_d0_UoXYLPrPem9pEtFDpiUEGx7bYypv81vmhGmFT3gTsqGZN3Zp3lL1rnEC18tV-iXa9rvC6uF-BQEhD6PZ9X0_Kqb1k_r3zW6QI2GhQ53PbsqAI6cw57lBenXcI6XZca3w",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJtSeL5dZ2AjoRvFRF7IjWFHw",
+         "plus_code" : {
+            "compound_code" : "G9F8+QC Kolkata, West Bengal, India",
+            "global_code" : "7MJCG9F8+QC"
+         },
+         "rating" : 4.199999999999999,
+         "reference" : "ChIJtSeL5dZ2AjoRvFRF7IjWFHw",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 9,
+         "vicinity" : "6, Gariahat Rd, Mandeville Gardens, Ekdalia, Ballygunge, Kolkata"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 22.5252477,
+               "lng" : 88.3658238
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5265997302915,
+                  "lng" : 88.3671550302915
+               },
+               "southwest" : {
+                  "lat" : 22.52390176970849,
+                  "lng" : 88.36445706970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "4200a8524ee28dd66516ceb318df5eafa0836e8a",
+         "name" : "Tram Tales",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJm2BNHdd2AjoReii3GZrgLQ4",
+         "plus_code" : {
+            "compound_code" : "G9G8+38 Kolkata, West Bengal, India",
+            "global_code" : "7MJCG9G8+38"
+         },
+         "rating" : 5,
+         "reference" : "ChIJm2BNHdd2AjoReii3GZrgLQ4",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "Old Ballygunge Road, Dover Terrace, Ballygunge, Kolkata"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 22.524652,
+               "lng" : 88.36529
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5259244302915,
+                  "lng" : 88.36662953029149
+               },
+               "southwest" : {
+                  "lat" : 22.52322646970849,
+                  "lng" : 88.36393156970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "cfa0bbc869fae2ffa596e292cc500b49b3dd57da",
+         "name" : "Phoenix IT Academy",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 733,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110681949824714738061/photos\"\u003ePhoenix IT Academy\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAEuNrbPrMFdR2stqJQqijVedrAhgpcehCiQ9ctRqz6yHrlRBVGRHJngHc0vns0t04f0hmhDxOlw2tz9QODH_MhOK1MmN-EIZSgiG3mK24Jxaa5hRGe2pJG-M6dssNc_hdEhDUx-t4gfdrQq3raoh4jHSmGhTQhkuj6P0O9Jruy7KSZNYnTtDUSA",
+               "width" : 734
+            }
+         ],
+         "place_id" : "ChIJO8_0-NZ2AjoRmqNjCHXGyso",
+         "plus_code" : {
+            "compound_code" : "G9F8+V4 Kolkata, West Bengal, India",
+            "global_code" : "7MJCG9F8+V4"
+         },
+         "reference" : "ChIJO8_0-NZ2AjoRmqNjCHXGyso",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "46/2, Gariahat Road, Kolkata"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 22.52467159999999,
+               "lng" : 88.3664826
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5260680802915,
+                  "lng" : 88.3678856302915
+               },
+               "southwest" : {
+                  "lat" : 22.52337011970849,
+                  "lng" : 88.36518766970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "e9aa1c6e4db45c3a45a2897798e928e8e2e7b6f1",
+         "name" : "Shivalik Creations",
+         "place_id" : "ChIJF-lw3dZ2AjoR51T8A9MykVM",
+         "plus_code" : {
+            "compound_code" : "G9F8+VH Ballygunge, Kolkata, West Bengal, India",
+            "global_code" : "7MJCG9F8+VH"
+         },
+         "rating" : 5,
+         "reference" : "ChIJF-lw3dZ2AjoR51T8A9MykVM",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "11, Mandeville Gardens, Ekdalia, Ballygunge, Kolkata"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 22.5244598,
+               "lng" : 88.3650356
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5258454302915,
+                  "lng" : 88.3663912802915
+               },
+               "southwest" : {
+                  "lat" : 22.5231474697085,
+                  "lng" : 88.36369331970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "f8bb9eeecdb3321e2b35357ca8f83211a33340d2",
+         "name" : "Allahabad Bank",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJf0t8V9Z2AjoRkQNtiJ8EHFE",
+         "plus_code" : {
+            "compound_code" : "G9F8+Q2 Kolkata, West Bengal, India",
+            "global_code" : "7MJCG9F8+Q2"
+         },
+         "rating" : 3.2,
+         "reference" : "ChIJf0t8V9Z2AjoRkQNtiJ8EHFE",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 13,
+         "vicinity" : "15D, Ashutosh Chowdary Avenue, Dover Terrace, Gariahat, Kolkata"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 22.524389,
+               "lng" : 88.3649779
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5257370802915,
+                  "lng" : 88.3663050302915
+               },
+               "southwest" : {
+                  "lat" : 22.5230391197085,
+                  "lng" : 88.36360706970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "e5a1a29867a6b6f1ad2e911be7de41728e3a7040",
+         "name" : "Allahabad Bank - Golpark Branch",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2340,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111285911643431832617/photos\"\u003eJUHI KUMARI\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAAVzqjNSjNHlhIWRyCdpDryZX1uAER6hFDNfQ-fSMXSw-lxBGPGXaUtNgsjXQFv-Muon7hpMXQmYo7--PdS77cpewXqmqITJkFQ_aPeKs9-YR6WRVocCUaPg-56umObCGXEhAM3n7M9HatExDFt0yCrRnzGhTjCMnLFeY8Jd7KhdHz20JydE_0WQ",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJtUHTeCtxAjoR-tdOrfsbpxY",
+         "plus_code" : {
+            "compound_code" : "G9F7+QX Kolkata, West Bengal, India",
+            "global_code" : "7MJCG9F7+QX"
+         },
+         "rating" : 4.199999999999999,
+         "reference" : "ChIJtUHTeCtxAjoR-tdOrfsbpxY",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 10,
+         "vicinity" : "28/3B, Ashutosh Chowdary Avenue, Dhakuria, Kankulia, Kolkata"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 22.5243061,
+               "lng" : 88.36589379999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5259252302915,
+                  "lng" : 88.36755008029151
+               },
+               "southwest" : {
+                  "lat" : 22.5232272697085,
+                  "lng" : 88.3648521197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "d4199bab8de7de3ad53563285fa851934cd256cc",
+         "name" : "Dr Sanjay Bhattacharyya",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 423,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117532448760560244860/photos\"\u003eDr Sanjay Bhattacharyya\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAv6BHn_bZi4XMAGW_imgmS7gw6zhaRjxhtWX1z-S0j4atQW8-1GzDOY5KEKzp8hdMURdR7QofbGcbpvAiHrGvyfdpYRhyAM1x7cX70SHb1CARPa3iCP60bEH3ri56bQBOEhBN1PP2zxNqzeYteulW-wrcGhRFzcg7gGpeESA32t0PEN5FdmGnIg",
+               "width" : 754
+            }
+         ],
+         "place_id" : "ChIJiUNWGdR2AjoRmAk9asguMUM",
+         "plus_code" : {
+            "compound_code" : "G9F8+P9 Ballygunge, Kolkata, West Bengal, India",
+            "global_code" : "7MJCG9F8+P9"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJiUNWGdR2AjoRmAk9asguMUM",
+         "scope" : "GOOGLE",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 6,
+         "vicinity" : "1D, Mandeville Gardens, Ballygunge, Kolkata"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 22.525248,
+               "lng" : 88.36592600000002
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5265957802915,
+                  "lng" : 88.36728243029151
+               },
+               "southwest" : {
+                  "lat" : 22.52389781970849,
+                  "lng" : 88.3645844697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "f688bc4ed83a1fc27833c23e2a74dfba4825f034",
+         "name" : "Gariahat Tram Depot",
+         "place_id" : "ChIJO4hvHdd2AjoREqgAIOy7Ph0",
+         "plus_code" : {
+            "compound_code" : "G9G8+39 Kolkata, West Bengal, India",
+            "global_code" : "7MJCG9G8+39"
+         },
+         "reference" : "ChIJO4hvHdd2AjoREqgAIOy7Ph0",
+         "scope" : "GOOGLE",
+         "types" : [ "transit_station", "point_of_interest", "establishment" ],
+         "vicinity" : "India"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 22.5244368,
+               "lng" : 88.3660654
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5258051802915,
+                  "lng" : 88.36728248029151
+               },
+               "southwest" : {
+                  "lat" : 22.52310721970849,
+                  "lng" : 88.3645845197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+         "id" : "1294466abf07712a744dcd64cbaba2c0905cc12a",
+         "name" : "CESC Limited",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109516388365436015560/photos\"\u003eabdur rahman\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAJPZS8lCuQHMlLI6_7P7i1FCE71yUABr--YHxnHm876isCStb7k8kSDz599kKdzwDJnalAWy-__5muLk-zMOb09e4Wj8vbhMgv_J_LVEHq9nRqJyopw1t8THXTyJG42b3EhA2nZ-JYYhthCh-9GzeX8puGhQcDNgMkFaU7NsB1lP5LTld_x9s8Q",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJv1hu79Z2AjoRH8WO7weSlz8",
+         "plus_code" : {
+            "compound_code" : "G9F8+QC Kolkata, West Bengal, India",
+            "global_code" : "7MJCG9F8+QC"
+         },
+         "rating" : 4.199999999999999,
+         "reference" : "ChIJv1hu79Z2AjoRH8WO7weSlz8",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 37,
+         "vicinity" : "Ashutosh Chowdary Ave,Gariahat Main Road, Ekdalia, Ballygunge, Kolkata"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 22.5249202,
+               "lng" : 88.36577459999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5262634302915,
+                  "lng" : 88.36715703029151
+               },
+               "southwest" : {
+                  "lat" : 22.5235654697085,
+                  "lng" : 88.36445906970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a7ea8297963cb0d427eb9557d6f79bdafc24d18d",
+         "name" : "Sree Comtrade Pvt Ltd",
+         "place_id" : "ChIJMXa4_NZ2AjoRdSuq7ThvmqY",
+         "plus_code" : {
+            "compound_code" : "G9F8+X8 Kolkata, West Bengal, India",
+            "global_code" : "7MJCG9F8+X8"
+         },
+         "reference" : "ChIJMXa4_NZ2AjoRdSuq7ThvmqY",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "42/4, Gariahat Road, Kolkata"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 22.524782,
+               "lng" : 88.365981
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5261395802915,
+                  "lng" : 88.36727913029151
+               },
+               "southwest" : {
+                  "lat" : 22.5234416197085,
+                  "lng" : 88.36458116970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a045ec8f0dad904c2f867bc01feb10651116f12d",
+         "name" : "Gariahat Tram Depot",
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114537818840037615540/photos\"\u003eSUBHASISH CHAKRABARTI\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAlDYlkVOuzCBKZrjPtmiTgP4dqsc-L1hOyzpM9GXWXE5jBRGC7Xn0x4YiuDEeegpvwE0CZSUd30e1TN1S49eWYwrC6s0frYp8yZUMbodAkGMlo56DXcivTZwSzTz7jtX1EhBm5OR9wbj3gH-Uz7gT_38GGhT0r68exMN4rscYf-kyCL6T3KAhaA",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ2Y05Hdd2AjoRLxUWVapRnY4",
+         "plus_code" : {
+            "compound_code" : "G9F8+W9 Kolkata, West Bengal, India",
+            "global_code" : "7MJCG9F8+W9"
+         },
+         "rating" : 4.699999999999999,
+         "reference" : "ChIJ2Y05Hdd2AjoRLxUWVapRnY4",
+         "scope" : "GOOGLE",
+         "types" : [ "transit_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Anil Maitra Road, Dover Terrace, Ballygunge, Kolkata"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 22.524653,
+               "lng" : 88.36577199999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5260056302915,
+                  "lng" : 88.36710233029152
+               },
+               "southwest" : {
+                  "lat" : 22.5233076697085,
+                  "lng" : 88.3644043697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "8e529a27df4ed345b6d7f68a6ee132d9e6b4fb6b",
+         "name" : "ARMAN TRAVELS",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1152,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114124359737646743620/photos\"\u003eARMAN TRAVELS\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAAAW5R-icRmYfkXjrG0CosXQAzA9XBomTlW3nITYh6Ij8heYUixiHnQ6LuoCnYcD0YAc0RN-NFNfpd9qM_i3B3ee6b0RlyM0ajFF1fnhb9b4cqVDD7s2tQQZZ-_bBJ3WaNEhDOnvsiXqUtcZ4noYLJsiPvGhTESTuoKqYmFCsIFD3PY9S0jwi4cw",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJJVUm-9Z2AjoRgmijPwsSfZg",
+         "plus_code" : {
+            "compound_code" : "G9F8+V8 Kolkata, West Bengal, India",
+            "global_code" : "7MJCG9F8+V8"
+         },
+         "rating" : 5,
+         "reference" : "ChIJJVUm-9Z2AjoRgmijPwsSfZg",
+         "scope" : "GOOGLE",
+         "types" : [ "travel_agency", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "46/31/1,GARIAHAT ROAD 2ND FLOOR A. C. MARKET, Kolkata"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 22.524663,
+               "lng" : 88.36569299999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5260134302915,
+                  "lng" : 88.36703453029151
+               },
+               "southwest" : {
+                  "lat" : 22.5233154697085,
+                  "lng" : 88.3643365697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "bc2b6abc4ae988913c5cc77beef185625b77c241",
+         "name" : "Gariahat Tram Depot",
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109992148660162679316/photos\"\u003eSomnath Das\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAqiip-q1dNnmxoifBaWR6boC6Oceia0IX4oZ_Uv5jhxe91ySRxAD6NYfZ12MW3Rs1NUOhEdO8wWDUdKmKtDQe1Ogn7l9iJ3Y0NhthcHbFhv3dy-kfVySX-VoUu_vTpE8SEhCC0tKI7fYNa2OoxRqbvXIhGhTu3amoBKO7nXIBzO0TXmHzUSGz9g",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJXYgD-9Z2AjoRKdrsrRL98ak",
+         "plus_code" : {
+            "compound_code" : "G9F8+V7 Kolkata, West Bengal, India",
+            "global_code" : "7MJCG9F8+V7"
+         },
+         "rating" : 4.699999999999999,
+         "reference" : "ChIJXYgD-9Z2AjoRKdrsrRL98ak",
+         "scope" : "GOOGLE",
+         "types" : [ "transit_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 7,
+         "vicinity" : "India"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 22.5246182,
+               "lng" : 88.36567909999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5259679302915,
+                  "lng" : 88.36702423029149
+               },
+               "southwest" : {
+                  "lat" : 22.52326996970849,
+                  "lng" : 88.36432626970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "4ba9c994e8bfb997690c1bfedaad8a98e27726c0",
+         "name" : "Sangita's Boutique",
+         "place_id" : "ChIJsdOnj9Z2AjoRaWlRqnDxNSY",
+         "plus_code" : {
+            "compound_code" : "G9F8+R7 Kolkata, West Bengal, India",
+            "global_code" : "7MJCG9F8+R7"
+         },
+         "reference" : "ChIJsdOnj9Z2AjoRaWlRqnDxNSY",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "clothing_store", "store", "establishment" ],
+         "vicinity" : "46/31/1, Gariahat Road, Kolkata"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 22.5250713,
+               "lng" : 88.36593329999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5264145802915,
+                  "lng" : 88.3673158302915
+               },
+               "southwest" : {
+                  "lat" : 22.52371661970849,
+                  "lng" : 88.3646178697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "6db1aadd91920c97c0f5888a94d8df5bcdf6ba55",
+         "name" : "United Bank",
+         "place_id" : "ChIJ61mZH9V2AjoR8gwava151aA",
+         "plus_code" : {
+            "compound_code" : "G9G8+29 Kolkata, West Bengal, India",
+            "global_code" : "7MJCG9G8+29"
+         },
+         "reference" : "ChIJ61mZH9V2AjoR8gwava151aA",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "26/7, Gariahat Road, Ballygunge, Kolkata"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 22.520664,
+               "lng" : 88.35914389999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.527801,
+                  "lng" : 88.36612699999999
+               },
+               "southwest" : {
+                  "lat" : 22.517907,
+                  "lng" : 88.351669
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "0c1429e2647b0664bcc7a3cb84219146731ad51c",
+         "name" : "Dover Terrace",
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104786276726993588405/photos\"\u003eSUVOJIT ROY\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA2-LIn-JZvJvykB3a0-XjOFJeZm5y_VUhGWj_1E8xoJI7AC0EvFKhIsOoXvPWlrT9M3LgKm6sw88hAX7V9s18cDB8P0vTTmf61dOqJFIxPfX-D-kP_u7HYGo7rpjTbNYLEhDsdLuAppSdcm5i8P2fPPGJGhTBABph8fPztsMhLYeg5TpX2nqOHQ",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJo0u3XCl3AjoR_-X5E455nYU",
+         "reference" : "ChIJo0u3XCl3AjoR_-X5E455nYU",
+         "scope" : "GOOGLE",
+         "types" : [ "sublocality_level_2", "sublocality", "political" ],
+         "vicinity" : "Dover Terrace"
+      }
+   ],
+   "status" : "OK"
+}
